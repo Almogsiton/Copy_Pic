@@ -2,3 +2,5 @@ customtkinter
 packaging
 pyinstaller
 pywin32
+Pillow
+pillow-heif
